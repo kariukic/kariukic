@@ -1,5 +1,5 @@
 ### Hi there 👋
-- I am **kariuki chege**.
+- I am **kariuki chege**. I write code that runs on supercomputers to process data for very big telescopes like [LOFAR](https://en.wikipedia.org/wiki/Low-Frequency_Array_(LOFAR)) and [MWA](https://en.wikipedia.org/wiki/Murchison_Widefield_Array).
 - 🔭 I’m currently working on **nextleap**, a nextflow pipeline to process petabytes of data observed by LOFAR, a European radio telescope as part of my astronomy research.
 - 🌱 I’m always looking to learn new skills and technologies in programming, AI, data science, data engineering and general software development.
 - 👯 I'm looking to collaborate with open-source projects especially ones solving interesting and impactful problems
